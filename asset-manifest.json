@@ -1,19 +1,42 @@
 {
   "files": {
-    "main.css": "/vivek1705/Business-Website/static/css/main.b3a74a2e.css",
-    "main.js": "/vivek1705/Business-Website/static/js/main.1b3136c0.js",
+    "main.css": "/vivek1705/Business-Website/static/css/main.c1731969.css",
+    "main.js": "/vivek1705/Business-Website/static/js/main.8e466738.js",
     "static/js/787.bfefb08b.chunk.js": "/vivek1705/Business-Website/static/js/787.bfefb08b.chunk.js",
+    "static/media/industrial 3.jpg": "/vivek1705/Business-Website/static/media/industrial 3.45fa1a7e60f36a745b23.jpg",
+    "static/media/metalsheds.jpg": "/vivek1705/Business-Website/static/media/metalsheds.7375ef77c4a8708fcc08.jpg",
+    "static/media/industrial 1.jpg": "/vivek1705/Business-Website/static/media/industrial 1.ade72b332be55c6bc2f8.jpg",
+    "static/media/Polycarbonateroof.jpg": "/vivek1705/Business-Website/static/media/Polycarbonateroof.333d5e3ebad772f301bf.jpg",
+    "static/media/celestia.jpg": "/vivek1705/Business-Website/static/media/celestia.79f481e1ee6f8fad9793.jpg",
+    "static/media/industrialmetalhouse.jpg": "/vivek1705/Business-Website/static/media/industrialmetalhouse.006e5becea2e103fbce6.jpg",
+    "static/media/PEB structure.jpg": "/vivek1705/Business-Website/static/media/PEB structure.ae00da0eaa2b6fb5c3fb.jpg",
+    "static/media/parking.jpg": "/vivek1705/Business-Website/static/media/parking.a9e840a192f7d8963ea9.jpg",
+    "static/media/glass roof.jpg": "/vivek1705/Business-Website/static/media/glass roof.ceac4feb37a2fc1ff5b3.jpg",
+    "static/media/logistics tables.jpg": "/vivek1705/Business-Website/static/media/logistics tables.169fa3f1831ca532e67f.jpg",
+    "static/media/dock canopy.jpg": "/vivek1705/Business-Website/static/media/dock canopy.2726a6b89ee4fe0a6ce5.jpg",
+    "static/media/generator canopy.jpg": "/vivek1705/Business-Website/static/media/generator canopy.e30ac7d1e857b3f27eae.jpg",
+    "static/media/Packing Ecom.jpg": "/vivek1705/Business-Website/static/media/Packing Ecom.31035c4810c2da374b0f.jpg",
+    "static/media/industrial 5.jpg": "/vivek1705/Business-Website/static/media/industrial 5.73102e582547bb4e2aeb.jpg",
+    "static/media/terrace roof.jpg": "/vivek1705/Business-Website/static/media/terrace roof.4aa80ed5ca3e1f7dd921.jpg",
+    "static/media/industrial 2.jpg": "/vivek1705/Business-Website/static/media/industrial 2.401e88ceceb36ed13faf.jpg",
+    "static/media/metal grill.jpg": "/vivek1705/Business-Website/static/media/metal grill.7299c02e5e1f11ae4538.jpg",
+    "static/media/card.jpeg": "/vivek1705/Business-Website/static/media/card.ebf06e380c6bda5747ae.jpeg",
+    "static/media/residentialgate+roof.jpg": "/vivek1705/Business-Website/static/media/residentialgate+roof.4eb9361b87bea8548551.jpg",
+    "static/media/farmhouse.jpg": "/vivek1705/Business-Website/static/media/farmhouse.ea3591cddb111e51569c.jpg",
+    "static/media/industrial parking.jpg": "/vivek1705/Business-Website/static/media/industrial parking.55348a163378c495d92d.jpg",
+    "static/media/roof.jpg": "/vivek1705/Business-Website/static/media/roof.0a3f1168466f53bb79f9.jpg",
+    "static/media/industrial 4.jpg": "/vivek1705/Business-Website/static/media/industrial 4.7792f9506f3a819f4994.jpg",
     "static/media/slick.svg": "/vivek1705/Business-Website/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/vivek1705/Business-Website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/vivek1705/Business-Website/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/vivek1705/Business-Website/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/vivek1705/Business-Website/index.html",
-    "main.b3a74a2e.css.map": "/vivek1705/Business-Website/static/css/main.b3a74a2e.css.map",
-    "main.1b3136c0.js.map": "/vivek1705/Business-Website/static/js/main.1b3136c0.js.map",
+    "main.c1731969.css.map": "/vivek1705/Business-Website/static/css/main.c1731969.css.map",
+    "main.8e466738.js.map": "/vivek1705/Business-Website/static/js/main.8e466738.js.map",
     "787.bfefb08b.chunk.js.map": "/vivek1705/Business-Website/static/js/787.bfefb08b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3a74a2e.css",
-    "static/js/main.1b3136c0.js"
+    "static/css/main.c1731969.css",
+    "static/js/main.8e466738.js"
   ]
 }
