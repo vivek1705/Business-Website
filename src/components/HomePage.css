@@ -1,0 +1,83 @@
+
+.home-page {
+  position: relative;
+  text-align: center;
+  background-color: black;
+  padding: 50px 0;
+  background-size: cover;
+  height: 100%;
+  background-position: center;
+}
+
+.container {
+  position: relative;
+  z-index: 1;
+}
+
+.welcome-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.company-name {
+  font-size: 90px;
+  font-weight: 900;
+  margin-bottom: 20px;
+  border-bottom: 1px solid red;
+  color: whitesmoke;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.company-desc {
+  font-size: 25px;
+  font-weight: bold;
+  line-height: 1;
+  color: whitesmoke;
+  margin-bottom: 20px;
+  font-family:cursive;
+  letter-spacing: 1px;
+}
+
+.company-description {
+  font-size: 25px;
+  line-height: 1;
+  color:rgb(255, 0, 128);
+  margin-bottom: 20px;
+}
+
+.social {
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 70px;
+}
+
+.social-media-icons{
+  margin-bottom: 60px;
+  display: flex; 
+  justify-content: center;
+}
+
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .company-name {
+    font-weight:bolder;
+    font-size: 70px;
+    margin-top: 30px;
+  }
+
+  .company-description {
+    font-size: 20px;
+    padding: 0 10px;
+  }
+
+  .social-media-icons {
+    margin-top: 20px;
+  }
+
+  .social-media-icons{
+    margin-bottom: 30px;
+  }
+
+}

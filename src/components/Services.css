@@ -1,0 +1,83 @@
+.services {
+  padding: 50px 0;
+  text-align: center;
+  background-color: black;
+}
+
+.services-title {
+  font-size: 36px;
+  font-weight: bold;
+  color: hotpink;
+  margin-bottom: 30px;
+  border-bottom: 1px solid red;
+}
+
+.services-description {
+  font-size: 18px;
+  color: pink;
+  margin-bottom: 30px;
+}
+
+.services-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+
+.service-card {
+  width: calc(25% - 20px); /* Calculate the width for four cards in one line with margin */
+  background-color: aliceblue;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 10px;
+  border: 1.5px solid gold;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+}
+
+.service-card:hover {
+  transform: scale(1.05);
+}
+
+.service-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: blueviolet;
+  margin-bottom: 10px;
+  border-bottom: 1px solid red;
+}
+
+.service-description {
+  font-size: 16px;
+  color: #555;
+  font-weight: bold;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+
+  .services-container {
+    margin-bottom: 70px;
+  }
+
+  .service-card {
+    width: 30% 
+  }
+
+  .services-title {
+    font-size: 25px;
+  }
+
+  .services-description {
+    font-size: 16px;
+  }
+
+  .service-title {
+    font-size: 20px;
+  }
+
+  .service-description {
+    font-size: 14px;
+  }
+}

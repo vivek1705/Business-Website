@@ -1,0 +1,94 @@
+.section.about-us {
+  background-color: #f8f8f8;
+  padding: 50px 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 1;
+}
+
+.about-content {
+  text-align: center;
+}
+
+.about-title {
+  font-size: 36px;
+  font-weight: bold;
+  color: #0e0d0d;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-bottom: 20px;
+  border-bottom: 1px solid red;
+}
+
+.about-description {
+  font-size: 20px;
+  font-weight: bold;
+  color: #555;
+  margin-bottom: 30px;
+}
+
+.about-history {
+  font-size: 18px;
+  font-weight: normal;
+  color: #333;
+  margin-bottom: 30px;
+  margin: 40px 60px;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.card {
+  background-color: rgba(187, 198, 202, 0.521);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 1);
+  margin: 0 10px 20px;
+  max-width: 300px;
+  text-align: center;
+}
+
+.card h3 {
+  font-size: 25px;
+  font-weight:bolder;
+  color:tomato;
+  margin-bottom: 10px;
+  border-bottom: 1px solid red;
+  font-family: cursive;
+}
+
+.card p {
+  font-size: 18px;
+  font-weight: bold;
+  color:#3a0202;
+  font-family:Arial;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .about-title {
+    font-size: 30px;
+  }
+
+  .about-description {
+    font-size: 18px;
+    margin: 10px 20px;
+    
+  }
+
+  .about-history {
+    font-size: 16px;
+    margin: 15px 40px;
+  }
+
+  .card {
+    max-width: 100%;
+    margin: 0 25px 25px;
+  }
+}
