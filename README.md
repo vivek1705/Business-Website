@@ -1,4 +1,4 @@
-https://kiran-industries.netlify.app/   Go live here
+https://kiran-industries.netlify.app/      Go live here
 
 # Getting Started with Create React App
 
